@@ -8,7 +8,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 <a href="https://tailwindcss.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindcss"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Tailwind-white?style=flat&logo=tailwindcss&logoColor=38BDF8"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white"></picture></a>
  
 - 🧙&nbsp;&nbsp;Database:
-<a href="https://supabase.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Supabase-0A1A2F?style=flat&logo=supabase"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Supabase-white?style=flat&logo=supabase"><img alt="YOUR-ALT-TEXT" src="https://img.shields.io/badge/Supabase-1B1B1B?style=flat&logo=supabase"></picture></a>
+<a href="https://supabase.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Supabase-0A1A2F?style=flat&logo=supabase"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Supabase-white?style=flat&logo=supabase"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-1B1B1B?style=flat&logo=supabase"></picture></a>
 <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-0A1A2F?style=flat&logo=docker"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-white?style=flat&logo=docker"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></picture></a>
 
 - 🕵️&nbsp;&nbsp;VCS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 
 
 - 👨‍🏭&nbsp;&nbsp;IDE's:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC"><img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></picture></a>
+<a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"></picture></a>
 <a href="https://www.jetbrains.com/webstorm/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Webstorm-white?style=flat&logo=webstorm&logoColor=black"><img alt="Webstorm" src="https://img.shields.io/badge/-Webstorm-black?style=flat&logo=webstorm&logoColor=white"></picture></a>
 
 - 👨‍🎨&nbsp;&nbsp;Design:&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,8 +27,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 <a href="https://jestjs.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Jest-0A1A2F?style=flat&logo=Jest"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Jest-white?style=flat&logo=Jest&logoColor=black"><img alt="Jest" src="https://img.shields.io/badge/Jest-99435C?style=flat&logo=Jest&logoColor=white"></picture></a>
 <a href="https://testing-library.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React%20Testing%20Library-0A1A2F?style=flat&logo=testing-library&logoColor=F23D3D"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React%20Testing%20Library-white?style=flat&logo=testing-library&logoColor=F23D3D"><img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-26292F?style=flat&logo=testing-library&logoColor=F23D3D"></picture></a>
 
-
-## BACKUP
+<!--## BACKUP
 
 <a href="https://react.dev/" ><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></a>
 <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" /></a>
@@ -41,10 +40,11 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/-Webstorm-black?style=flat&logo=webstorm&logoColor=white" /></a>
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-252525?style=flat&logo=figma&logoColor=white" /></a>
-<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-99435C?style=flat&logo=Jest" /></a>
-<a href="https://testing-library.com/"><img src="https://img.shields.io/badge/React%20Testing%20Library-26292F?style=flat&logo=testing-library&logoColor=F23D3D"/></a>
+<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-99435C?style=flat&logo=Jest&logoColor=white" /></a>
+<a href="https://testing-library.com/"><img src="https://img.shields.io/badge/React%20Testing%20Library-26292F?style=flat&logo=testing-library&logoColor=F23D3D"/></a>-->
 
-## old
+<!--## OLD
+
 🌐🗃️🔧🖥🔬 style=for-the-badge
 - 🌐&nbsp;&nbsp;Frontend:&nbsp;
     <a href="https://react.dev/" ><img src="https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react"/></a>
@@ -69,4 +69,4 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
     
 - 👨‍🔬&nbsp;&nbsp;Testing:&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-0A1A2F?style=flat&logo=Jest" /></a>
-    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/React%20Testing%20Library-0A1A2F?style=flat&logo=testing-library"/></a>
+    <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/React%20Testing%20Library-0A1A2F?style=flat&logo=testing-library"/></a>-->
