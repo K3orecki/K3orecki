@@ -9,6 +9,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
  
 - 🧙&nbsp;&nbsp;Database:
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-1B1B1B?style=flat&logo=supabase&logoColor=3FCF8E" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></a>
 
 - 🕵️&nbsp;&nbsp;VCS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" /></a>
@@ -38,7 +39,8 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
     
 - 🗃️&nbsp;&nbsp;Database:
     <a href="https://supabase.com/"><img src="https://img.shields.io/badge/-Supabase-0A1A2F?style=flat&logo=supabase" /></a>
-    
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0A1A2F?style=flat&logo=docker" /></a>
+ 
 - ⚙️&nbsp;&nbsp;VCS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git" /></a>
     <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github" /></a>
