@@ -20,12 +20,27 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm&logoColor=white" /></a>
 
 - 👨‍🎨&nbsp;&nbsp;Design:&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-252525?style=flat&logo=figma&logoColor=white" /></a>
 
 - 👨‍🔬&nbsp;&nbsp;Testing:&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-99435C?style=flat&logo=Jest&logoColor=white" /></a>
 <a href="https://testing-library.com/"><img src="https://img.shields.io/badge/React%20Testing%20Library-26292F?style=flat&logo=testing-library&logoColor=F23D3D"/></a>
 
+
+<a href="https://react.dev/" >
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react">
+ <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-React-fff?style=flat&logo=react">
+ <img alt="YOUR-ALT-TEXT" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+</picture></a>
+ 
+
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 
 
@@ -50,7 +65,7 @@ I'm a software developer based in Szczecin PL, specializing in building responsi
     <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/-Webstorm-0A1A2F?style=flat&logo=webstorm" /></a>
     
 - 🖥&nbsp;&nbsp;Design:&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma" /></a>
+    <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma&logoColor=white" /></a>
     
 - 👨‍🔬&nbsp;&nbsp;Testing:&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-0A1A2F?style=flat&logo=Jest" /></a>
